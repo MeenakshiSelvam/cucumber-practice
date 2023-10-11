@@ -1,0 +1,12 @@
+
+//// Gherkin Keywords
+
+// Steps
+Given - precondition
+When - performing action
+And - additonal action
+Then - verification/ assertion/ conclusion
+
+Feature
+Scenario
+Scenario Outline
